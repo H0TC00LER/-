@@ -1,0 +1,232 @@
+<!doctype html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <link rel="stylesheet" href="css/style.css">
+        <style>
+            body{
+                margin: 0;
+            }
+
+            .top-division{
+                padding: 7px;
+                display: flex;
+                height: 40px;
+                justify-content: flex-end;
+                font-family: sans-serif;
+                font-size: 14px;
+            }
+
+            .links{
+                text-decoration: none;
+                color: #5a5a5a;
+            }
+
+            .links:hover{
+                text-decoration: underline;
+            }
+
+            .enter{
+                background-color: blue;
+                border: none;
+                border-radius: 10px;
+                width: 100px;
+                height: 40px;
+                color: white;
+            }
+
+            .enter:hover{
+                box-shadow: 0 5px 10px #d4d4d4;
+                background-color: #0000e0;
+                cursor: pointer;
+            }
+
+            .applications{
+                border-radius: 50%;
+                background-color: transparent;
+                border: none;
+                width: 40px;
+                height: 40px;
+            }
+
+            .applications:hover{
+                background-color: #d4d4d4;
+                cursor: pointer;
+            }
+
+            .top-right-division{
+                display: flex;
+                justify-content: space-between;
+                width: 18%;
+                align-items: center;
+            }
+
+            .google-division{
+                display: flex;
+                justify-content: center;
+                align-items: flex-end;
+                height: 210px;
+                /*background-color: blue;*/
+                padding-bottom: 10px;
+            }
+
+            .google-image{
+                width: 272px;
+                height: 92px;
+            }
+
+            .search-division{
+                display: flex;
+                height: 50px;
+                justify-content: center;
+                align-content: space-between;
+                padding: 20px;
+            }
+
+            .search-input{
+                height: 20px;
+                width: 480px;
+                border: none;
+                outline: none;
+            }
+
+            .search-border{
+                display: flex;
+                justify-content: space-evenly;
+                align-items: center;
+                height: 40px;
+                width: 600px;
+                border: 1px solid #ccc;
+                border-radius: 30px;
+            }
+
+            .search-border:hover{
+                box-shadow: 0 3px 10px #d4d4d4;
+            }
+
+            .under-search-division{
+                display: flex;
+                justify-content: center;
+            }
+
+            .under-search-button{
+                margin: 5px;
+                width: 130px;
+                height: 35px;
+                border: none;
+                border-radius: 5px;
+            }
+
+            .under-search-button:hover{
+                border: 1px solid #ccc;
+                box-shadow: 0 2px 5px #ccc;
+                cursor: pointer;
+            }
+
+            .bottom-division{
+                position: absolute;
+                bottom: 0;
+                background-color: #f7f7f7;
+                height: 95px;
+                width: 100%;
+            }
+
+            .bottom-divison-top{
+                display: flex;
+                border-bottom: 1px solid #dedede;
+                height: 50%;
+                padding-left: 30px;
+                color: #6c6c6c;
+                font-size: 15px;
+                font-family: sans-serif;
+            }
+
+            .bottom-division-bottom{
+                display: flex;
+                height: 49%;
+                font-size: 14px;
+                font-family: sans-serif;
+                justify-content: space-between;
+                align-items: center;
+                padding-left: 30px;
+                padding-right: 30px;
+            }
+
+            .bottom-left{
+                display: flex;
+                justify-content: space-between;
+                width: 33%;
+            }
+
+            .bottom-right{
+                display: flex;
+                justify-content: space-between;
+                width: 25%;
+            }
+
+            .list{
+                width: 12px;
+            }
+        </style>
+    </head>
+    <body>
+        <div class="top-division">
+            <div class="top-right-division">
+                <a class="links" href="https://mail.google.com/mail/&ogbl">Почта</a>
+                <a class="links" href="https://www.google.ru/imghp?hl=ru&ogbl">Картинки</a>
+                <button class="applications"><img src="img/bars.png" alt="bars"></button>
+                <a href="https://www.google.ru/?pli=1"><button class="enter"><b>Войти</b></button></a>
+            </div>
+        </div>
+        
+        <div class="google-division">
+            <img class="google-image" src="img/download.png" alt="GOOGLE">
+        </div>
+        
+        <div class="search-division">
+            <div class="search-border">
+                <img src="img/search.png">
+                
+                <input class="search-input" type="search">
+                
+                <img src="img/1200px-OOjs_UI_icon_keyboard.svg.png">
+                
+                <img src="img/mic.png">
+            </div>
+        </div>
+        
+        <div class="under-search-division">
+            <div class="under-search-block">
+                <a href="https://www.google.ru/"><button class="under-search-button">Поиск в Google</button></a>
+                
+                <a href="https://www.google.com/doodles"><button class="under-search-button">Мне повезёт!</button></a>
+            </div>
+        </div>
+        
+        <div class="bottom-division">
+            <div class="bottom-divison-top">
+                <p>Россия</p>
+            </div>
+            
+            <div class="bottom-division-bottom">
+                <div class="bottom-left">
+                    <a class="links" href="https://about.google/?utm_source=google-RU&utm_medium=referral&utm_campaign=hp-footer&fg=1">Всё о Google</a>
+                    <a class="links" href="https://ads.google.com/intl/ru_ru/home/?subid=ww-ww-et-g-awa-a-g_hpafoot1_1!o2&utm_source=google.com&utm_medium=referral&utm_campaign=google_hpafooter&fg=1">Реклама</a>
+                    <a class="links" href="https://www.google.ru/services/?subid=ww-ww-et-g-awa-a-g_hpbfoot1_1!o2&utm_source=google.com&utm_medium=referral&utm_campaign=google_hpbfooter&fg=1#?modal_active=none">Для бизнеса</a>
+                    <a class="links" href="https://www.google.com/search/howsearchworks/?fg=1">Как работает Google Поиск</a>
+                </div>
+                
+                <div class="bottom-center">
+                    <img class="list" src="img/list.png">
+                    <a class="links" href="https://sustainability.google/intl/ru/carbon-free/?utm_source=googlehpfooter&utm_medium=housepromos&utm_campaign=bottom-footer&utm_content=#home">Нулевой баланс выбросов углекислого газа с 2007 года</a>
+                </div>
+                
+                <div class="bottom-right">
+                    <a class="links" href="https://policies.google.com/privacy?hl=ru&fg=1">Конфиденциальность</a>
+                    <a class="links" href="https://policies.google.com/terms?hl=ru&fg=1">Условия</a>
+                    <a class="links" href="">Настройки</a>
+                </div>
+            </div>
+        </div>
+    </body>
+</html>

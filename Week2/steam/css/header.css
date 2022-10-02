@@ -1,0 +1,107 @@
+.global-header{
+    display: flex;
+    justify-content: center;
+    padding: 8px 16px;
+    background-color: #171a21;
+    height: 104px;
+    padding: 8px 8px;
+}
+
+.content{
+    width: 940px;
+    height: 100%;
+    margin: 0px auto;
+    position: relative;
+}
+
+.logo{
+    float: left;
+    padding-top: 30px;
+    margin-right: 40px;
+    width: 176px;
+    height: 44px;
+}
+
+.menu-logo{
+    display: none;
+    position: absolute;
+    left: 8px;
+    height: 35px;
+}
+
+.header-logo-img{
+    height: 44px;
+}
+
+.header-logo-img-media{
+    display: none;
+}
+
+.supernav-container{
+    position: absolute;
+    left: 200px;
+}
+
+.menuitem{
+    display: block;
+    position: relative;
+    padding-top: 45px;
+    padding-left: 7px;
+    padding-right: 7px;
+    padding-bottom: 7px;
+    line-height: 16px;
+    float: left;
+    font-size: 14px;
+    color: #b8b6b4;
+    text-decoration: underline;
+}
+
+.menuitem:hover{
+    text-decoration: none;
+}
+
+.global-actions{
+    position: absolute;
+    right: 0;
+    top: 6px;
+    height: 21px;
+    line-height: 21px;
+    color: #b8b6b4;
+    font-size: 11px;
+}
+
+.install-steam{
+    display: inline-block;
+    position: relative;
+    height: 21px;
+    line-height: 24px;
+    margin-right: 3px;
+}
+
+.install-steam-text{
+    background-color: #5c7e10;
+    display: inline-block;
+    padding-left: 35px;
+    padding-right: 9px;
+    background-position: 10px 5px;
+    background-image: url(https://store.akamai.steamstatic.com/public/shared/images/header/btn_header_installsteam_download.png?v=1);
+    background-repeat: no-repeat;
+    text-decoration: none;
+    color: #e5e4dc;
+    font-weight: normal;
+}
+
+.action-link{
+    padding: 0 4px;
+    text-decoration: none;
+    color: #b8b6b4;
+}
+
+.pulldown{
+    padding-left: 5px;
+    padding-right: 18px;
+    background-image: url(https://store.akamai.steamstatic.com/public/shared/images/popups/btn_arrow_down_padded.png);
+    background-position: right center;
+    background-repeat: no-repeat;
+    margin-right: 5px;
+}

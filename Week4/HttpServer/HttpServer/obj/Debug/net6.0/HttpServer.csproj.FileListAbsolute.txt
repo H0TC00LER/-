@@ -1,0 +1,15 @@
+D:\2 курс\HttpServer\HttpServer\bin\Debug\net6.0\HttpServer.exe
+D:\2 курс\HttpServer\HttpServer\bin\Debug\net6.0\HttpServer.deps.json
+D:\2 курс\HttpServer\HttpServer\bin\Debug\net6.0\HttpServer.runtimeconfig.json
+D:\2 курс\HttpServer\HttpServer\bin\Debug\net6.0\HttpServer.dll
+D:\2 курс\HttpServer\HttpServer\bin\Debug\net6.0\HttpServer.pdb
+D:\2 курс\HttpServer\HttpServer\obj\Debug\net6.0\HttpServer.csproj.AssemblyReference.cache
+D:\2 курс\HttpServer\HttpServer\obj\Debug\net6.0\HttpServer.GeneratedMSBuildEditorConfig.editorconfig
+D:\2 курс\HttpServer\HttpServer\obj\Debug\net6.0\HttpServer.AssemblyInfoInputs.cache
+D:\2 курс\HttpServer\HttpServer\obj\Debug\net6.0\HttpServer.AssemblyInfo.cs
+D:\2 курс\HttpServer\HttpServer\obj\Debug\net6.0\HttpServer.csproj.CoreCompileInputs.cache
+D:\2 курс\HttpServer\HttpServer\obj\Debug\net6.0\HttpServer.dll
+D:\2 курс\HttpServer\HttpServer\obj\Debug\net6.0\refint\HttpServer.dll
+D:\2 курс\HttpServer\HttpServer\obj\Debug\net6.0\HttpServer.pdb
+D:\2 курс\HttpServer\HttpServer\obj\Debug\net6.0\HttpServer.genruntimeconfig.cache
+D:\2 курс\HttpServer\HttpServer\obj\Debug\net6.0\ref\HttpServer.dll
