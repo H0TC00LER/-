@@ -1,0 +1,30 @@
+D:\2 курс\HttpServer\HttpServer\bin\Debug\net6.0\HttpServer.exe
+D:\2 курс\HttpServer\HttpServer\bin\Debug\net6.0\HttpServer.deps.json
+D:\2 курс\HttpServer\HttpServer\bin\Debug\net6.0\HttpServer.runtimeconfig.json
+D:\2 курс\HttpServer\HttpServer\bin\Debug\net6.0\HttpServer.dll
+D:\2 курс\HttpServer\HttpServer\bin\Debug\net6.0\HttpServer.pdb
+D:\2 курс\HttpServer\HttpServer\obj\Debug\net6.0\HttpServer.csproj.AssemblyReference.cache
+D:\2 курс\HttpServer\HttpServer\obj\Debug\net6.0\HttpServer.GeneratedMSBuildEditorConfig.editorconfig
+D:\2 курс\HttpServer\HttpServer\obj\Debug\net6.0\HttpServer.AssemblyInfoInputs.cache
+D:\2 курс\HttpServer\HttpServer\obj\Debug\net6.0\HttpServer.AssemblyInfo.cs
+D:\2 курс\HttpServer\HttpServer\obj\Debug\net6.0\HttpServer.csproj.CoreCompileInputs.cache
+D:\2 курс\HttpServer\HttpServer\obj\Debug\net6.0\HttpServer.dll
+D:\2 курс\HttpServer\HttpServer\obj\Debug\net6.0\refint\HttpServer.dll
+D:\2 курс\HttpServer\HttpServer\obj\Debug\net6.0\HttpServer.pdb
+D:\2 курс\HttpServer\HttpServer\obj\Debug\net6.0\HttpServer.genruntimeconfig.cache
+D:\2 курс\HttpServer\HttpServer\obj\Debug\net6.0\ref\HttpServer.dll
+D:\git\ОРИС\Week5\HttpServer\HttpServer\bin\Debug\net6.0\HttpServer.exe
+D:\git\ОРИС\Week5\HttpServer\HttpServer\bin\Debug\net6.0\HttpServer.deps.json
+D:\git\ОРИС\Week5\HttpServer\HttpServer\bin\Debug\net6.0\HttpServer.runtimeconfig.json
+D:\git\ОРИС\Week5\HttpServer\HttpServer\bin\Debug\net6.0\HttpServer.dll
+D:\git\ОРИС\Week5\HttpServer\HttpServer\bin\Debug\net6.0\HttpServer.pdb
+D:\git\ОРИС\Week5\HttpServer\HttpServer\obj\Debug\net6.0\HttpServer.csproj.AssemblyReference.cache
+D:\git\ОРИС\Week5\HttpServer\HttpServer\obj\Debug\net6.0\HttpServer.GeneratedMSBuildEditorConfig.editorconfig
+D:\git\ОРИС\Week5\HttpServer\HttpServer\obj\Debug\net6.0\HttpServer.AssemblyInfoInputs.cache
+D:\git\ОРИС\Week5\HttpServer\HttpServer\obj\Debug\net6.0\HttpServer.AssemblyInfo.cs
+D:\git\ОРИС\Week5\HttpServer\HttpServer\obj\Debug\net6.0\HttpServer.csproj.CoreCompileInputs.cache
+D:\git\ОРИС\Week5\HttpServer\HttpServer\obj\Debug\net6.0\HttpServer.dll
+D:\git\ОРИС\Week5\HttpServer\HttpServer\obj\Debug\net6.0\refint\HttpServer.dll
+D:\git\ОРИС\Week5\HttpServer\HttpServer\obj\Debug\net6.0\HttpServer.pdb
+D:\git\ОРИС\Week5\HttpServer\HttpServer\obj\Debug\net6.0\HttpServer.genruntimeconfig.cache
+D:\git\ОРИС\Week5\HttpServer\HttpServer\obj\Debug\net6.0\ref\HttpServer.dll
