@@ -1,0 +1,100 @@
+@media screen and (max-width: 910px) {
+    
+    .global-actions{
+        display: none;
+    }
+    
+    .supernav-container{
+        display: none;
+    }
+    
+    .global-header{
+        height: 48px;
+        box-shadow: 0 0 7px 0 rgb(0 0 0 / 75%);
+        background-color: #21242c;
+        z-index: 20;
+    }
+    
+    .content{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+    
+    .logo{
+        padding-top: 0;
+        margin-right: 0;
+        display: flex;
+        justify-content: center;
+    }
+    
+    .menu-logo{
+        display: block;
+    }
+    
+    .header-logo-img{
+        display: none;
+    }
+    
+    .header-logo-img-media{
+        display: block;
+        height: 40px;
+    }
+    
+    .footer{
+        display: none;
+    }
+    
+    .bottom-row{
+        padding-bottom: 120px;
+    }
+}
+
+@media screen and (max-width: 700px){
+    .bottom-row{
+        flex-direction: column-reverse;
+    }
+    
+    .login-container{
+        background: radial-gradient(rgba(24, 26, 33, 0) 0%, #181A21 100%) fixed no-repeat, url(https://store.cloudflare.steamstatic.com/public/shared/images/joinsteam/new_login_bg_strong_mask_mobile.jpg) center top no-repeat, #181A21;
+        padding-top: 12px;
+        padding-bottom: 0;
+    }
+    
+    .login-dialog{
+        display: flex;
+        flex-direction: column;
+        width: 334px;
+    }
+    
+    .login-head{
+        align-items: center;
+    }
+    
+    .login-body{
+        background-color: transparent;
+    }
+    
+    .login-body-box{
+        flex-direction: column;
+    }
+    
+    .beta-section{
+        display: flex;
+        justify-content: center;
+        margin-left: 0;
+        margin-top: 50px;
+    }
+    
+    .beta-container{
+        align-items: center;
+    }
+    
+    .qr-code{
+        display: none;
+    }
+    
+    .beta-dialog-text{
+        text-align: center;
+    }
+}

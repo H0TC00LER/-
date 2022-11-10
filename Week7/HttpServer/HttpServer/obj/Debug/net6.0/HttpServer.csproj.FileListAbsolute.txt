@@ -1,0 +1,125 @@
+D:\2 курс\HttpServer\HttpServer\bin\Debug\net6.0\HttpServer.exe
+D:\2 курс\HttpServer\HttpServer\bin\Debug\net6.0\HttpServer.deps.json
+D:\2 курс\HttpServer\HttpServer\bin\Debug\net6.0\HttpServer.runtimeconfig.json
+D:\2 курс\HttpServer\HttpServer\bin\Debug\net6.0\HttpServer.dll
+D:\2 курс\HttpServer\HttpServer\bin\Debug\net6.0\HttpServer.pdb
+D:\2 курс\HttpServer\HttpServer\obj\Debug\net6.0\HttpServer.csproj.AssemblyReference.cache
+D:\2 курс\HttpServer\HttpServer\obj\Debug\net6.0\HttpServer.GeneratedMSBuildEditorConfig.editorconfig
+D:\2 курс\HttpServer\HttpServer\obj\Debug\net6.0\HttpServer.AssemblyInfoInputs.cache
+D:\2 курс\HttpServer\HttpServer\obj\Debug\net6.0\HttpServer.AssemblyInfo.cs
+D:\2 курс\HttpServer\HttpServer\obj\Debug\net6.0\HttpServer.csproj.CoreCompileInputs.cache
+D:\2 курс\HttpServer\HttpServer\obj\Debug\net6.0\HttpServer.dll
+D:\2 курс\HttpServer\HttpServer\obj\Debug\net6.0\refint\HttpServer.dll
+D:\2 курс\HttpServer\HttpServer\obj\Debug\net6.0\HttpServer.pdb
+D:\2 курс\HttpServer\HttpServer\obj\Debug\net6.0\HttpServer.genruntimeconfig.cache
+D:\2 курс\HttpServer\HttpServer\obj\Debug\net6.0\ref\HttpServer.dll
+D:\git\ОРИС\Week5\HttpServer\HttpServer\bin\Debug\net6.0\HttpServer.exe
+D:\git\ОРИС\Week5\HttpServer\HttpServer\bin\Debug\net6.0\HttpServer.deps.json
+D:\git\ОРИС\Week5\HttpServer\HttpServer\bin\Debug\net6.0\HttpServer.runtimeconfig.json
+D:\git\ОРИС\Week5\HttpServer\HttpServer\bin\Debug\net6.0\HttpServer.dll
+D:\git\ОРИС\Week5\HttpServer\HttpServer\bin\Debug\net6.0\HttpServer.pdb
+D:\git\ОРИС\Week5\HttpServer\HttpServer\obj\Debug\net6.0\HttpServer.csproj.AssemblyReference.cache
+D:\git\ОРИС\Week5\HttpServer\HttpServer\obj\Debug\net6.0\HttpServer.GeneratedMSBuildEditorConfig.editorconfig
+D:\git\ОРИС\Week5\HttpServer\HttpServer\obj\Debug\net6.0\HttpServer.AssemblyInfoInputs.cache
+D:\git\ОРИС\Week5\HttpServer\HttpServer\obj\Debug\net6.0\HttpServer.AssemblyInfo.cs
+D:\git\ОРИС\Week5\HttpServer\HttpServer\obj\Debug\net6.0\HttpServer.csproj.CoreCompileInputs.cache
+D:\git\ОРИС\Week5\HttpServer\HttpServer\obj\Debug\net6.0\HttpServer.dll
+D:\git\ОРИС\Week5\HttpServer\HttpServer\obj\Debug\net6.0\refint\HttpServer.dll
+D:\git\ОРИС\Week5\HttpServer\HttpServer\obj\Debug\net6.0\HttpServer.pdb
+D:\git\ОРИС\Week5\HttpServer\HttpServer\obj\Debug\net6.0\HttpServer.genruntimeconfig.cache
+D:\git\ОРИС\Week5\HttpServer\HttpServer\obj\Debug\net6.0\ref\HttpServer.dll
+D:\git\ОРИС\Week6\HttpServer\HttpServer\bin\Debug\net6.0\HttpServer.exe
+D:\git\ОРИС\Week6\HttpServer\HttpServer\bin\Debug\net6.0\HttpServer.deps.json
+D:\git\ОРИС\Week6\HttpServer\HttpServer\bin\Debug\net6.0\HttpServer.runtimeconfig.json
+D:\git\ОРИС\Week6\HttpServer\HttpServer\bin\Debug\net6.0\HttpServer.dll
+D:\git\ОРИС\Week6\HttpServer\HttpServer\bin\Debug\net6.0\HttpServer.pdb
+D:\git\ОРИС\Week6\HttpServer\HttpServer\obj\Debug\net6.0\HttpServer.csproj.AssemblyReference.cache
+D:\git\ОРИС\Week6\HttpServer\HttpServer\obj\Debug\net6.0\HttpServer.GeneratedMSBuildEditorConfig.editorconfig
+D:\git\ОРИС\Week6\HttpServer\HttpServer\obj\Debug\net6.0\HttpServer.AssemblyInfoInputs.cache
+D:\git\ОРИС\Week6\HttpServer\HttpServer\obj\Debug\net6.0\HttpServer.AssemblyInfo.cs
+D:\git\ОРИС\Week6\HttpServer\HttpServer\obj\Debug\net6.0\HttpServer.csproj.CoreCompileInputs.cache
+D:\git\ОРИС\Week6\HttpServer\HttpServer\obj\Debug\net6.0\HttpServer.dll
+D:\git\ОРИС\Week6\HttpServer\HttpServer\obj\Debug\net6.0\refint\HttpServer.dll
+D:\git\ОРИС\Week6\HttpServer\HttpServer\obj\Debug\net6.0\HttpServer.pdb
+D:\git\ОРИС\Week6\HttpServer\HttpServer\obj\Debug\net6.0\HttpServer.genruntimeconfig.cache
+D:\git\ОРИС\Week6\HttpServer\HttpServer\obj\Debug\net6.0\ref\HttpServer.dll
+D:\git\ОРИС\Week6\HttpServer\HttpServer\bin\Debug\net6.0\SQLConnection.dll
+D:\git\ОРИС\Week6\HttpServer\HttpServer\bin\Debug\net6.0\System.Data.SqlClient.dll
+D:\git\ОРИС\Week6\HttpServer\HttpServer\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+D:\git\ОРИС\Week6\HttpServer\HttpServer\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+D:\git\ОРИС\Week6\HttpServer\HttpServer\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+D:\git\ОРИС\Week6\HttpServer\HttpServer\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\git\ОРИС\Week6\HttpServer\HttpServer\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\git\ОРИС\Week6\HttpServer\HttpServer\obj\Debug\net6.0\HttpServer.csproj.CopyComplete
+D:\git\ОРИС\Week7\HttpServer\HttpServer\bin\Debug\net6.0\HttpServer.exe
+D:\git\ОРИС\Week7\HttpServer\HttpServer\bin\Debug\net6.0\HttpServer.deps.json
+D:\git\ОРИС\Week7\HttpServer\HttpServer\bin\Debug\net6.0\HttpServer.runtimeconfig.json
+D:\git\ОРИС\Week7\HttpServer\HttpServer\bin\Debug\net6.0\HttpServer.dll
+D:\git\ОРИС\Week7\HttpServer\HttpServer\bin\Debug\net6.0\HttpServer.pdb
+D:\git\ОРИС\Week7\HttpServer\HttpServer\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\git\ОРИС\Week7\HttpServer\HttpServer\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\git\ОРИС\Week7\HttpServer\HttpServer\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\git\ОРИС\Week7\HttpServer\HttpServer\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.Design.dll
+D:\git\ОРИС\Week7\HttpServer\HttpServer\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\git\ОРИС\Week7\HttpServer\HttpServer\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.Design.dll
+D:\git\ОРИС\Week7\HttpServer\HttpServer\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\git\ОРИС\Week7\HttpServer\HttpServer\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\git\ОРИС\Week7\HttpServer\HttpServer\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\git\ОРИС\Week7\HttpServer\HttpServer\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\git\ОРИС\Week7\HttpServer\HttpServer\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\git\ОРИС\Week7\HttpServer\HttpServer\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\git\ОРИС\Week7\HttpServer\HttpServer\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\git\ОРИС\Week7\HttpServer\HttpServer\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\git\ОРИС\Week7\HttpServer\HttpServer\bin\Debug\net6.0\SQLConnection.dll
+D:\git\ОРИС\Week7\HttpServer\HttpServer\bin\Debug\net6.0\System.Data.SqlClient.dll
+D:\git\ОРИС\Week7\HttpServer\HttpServer\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+D:\git\ОРИС\Week7\HttpServer\HttpServer\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+D:\git\ОРИС\Week7\HttpServer\HttpServer\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+D:\git\ОРИС\Week7\HttpServer\HttpServer\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\git\ОРИС\Week7\HttpServer\HttpServer\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\git\ОРИС\Week7\HttpServer\HttpServer\obj\Debug\net6.0\HttpServer.csproj.AssemblyReference.cache
+D:\git\ОРИС\Week7\HttpServer\HttpServer\obj\Debug\net6.0\HttpServer.GeneratedMSBuildEditorConfig.editorconfig
+D:\git\ОРИС\Week7\HttpServer\HttpServer\obj\Debug\net6.0\HttpServer.AssemblyInfoInputs.cache
+D:\git\ОРИС\Week7\HttpServer\HttpServer\obj\Debug\net6.0\HttpServer.AssemblyInfo.cs
+D:\git\ОРИС\Week7\HttpServer\HttpServer\obj\Debug\net6.0\HttpServer.csproj.CoreCompileInputs.cache
+D:\git\ОРИС\Week7\HttpServer\HttpServer\obj\Debug\net6.0\HttpServer.csproj.CopyComplete
+D:\git\ОРИС\Week7\HttpServer\HttpServer\obj\Debug\net6.0\HttpServer.dll
+D:\git\ОРИС\Week7\HttpServer\HttpServer\obj\Debug\net6.0\refint\HttpServer.dll
+D:\git\ОРИС\Week7\HttpServer\HttpServer\obj\Debug\net6.0\HttpServer.pdb
+D:\git\ОРИС\Week7\HttpServer\HttpServer\obj\Debug\net6.0\HttpServer.genruntimeconfig.cache
+D:\git\ОРИС\Week7\HttpServer\HttpServer\obj\Debug\net6.0\ref\HttpServer.dll
+D:\git\ОРИС\Week7\HttpServer\HttpServer\bin\Debug\net6.0\Azure.Core.dll
+D:\git\ОРИС\Week7\HttpServer\HttpServer\bin\Debug\net6.0\Azure.Identity.dll
+D:\git\ОРИС\Week7\HttpServer\HttpServer\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\git\ОРИС\Week7\HttpServer\HttpServer\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\git\ОРИС\Week7\HttpServer\HttpServer\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\git\ОРИС\Week7\HttpServer\HttpServer\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\git\ОРИС\Week7\HttpServer\HttpServer\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\git\ОРИС\Week7\HttpServer\HttpServer\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\git\ОРИС\Week7\HttpServer\HttpServer\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\git\ОРИС\Week7\HttpServer\HttpServer\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\git\ОРИС\Week7\HttpServer\HttpServer\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\git\ОРИС\Week7\HttpServer\HttpServer\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\git\ОРИС\Week7\HttpServer\HttpServer\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\git\ОРИС\Week7\HttpServer\HttpServer\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+D:\git\ОРИС\Week7\HttpServer\HttpServer\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\git\ОРИС\Week7\HttpServer\HttpServer\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\git\ОРИС\Week7\HttpServer\HttpServer\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\git\ОРИС\Week7\HttpServer\HttpServer\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\git\ОРИС\Week7\HttpServer\HttpServer\bin\Debug\net6.0\System.Memory.Data.dll
+D:\git\ОРИС\Week7\HttpServer\HttpServer\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\git\ОРИС\Week7\HttpServer\HttpServer\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\git\ОРИС\Week7\HttpServer\HttpServer\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\git\ОРИС\Week7\HttpServer\HttpServer\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\git\ОРИС\Week7\HttpServer\HttpServer\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\git\ОРИС\Week7\HttpServer\HttpServer\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\git\ОРИС\Week7\HttpServer\HttpServer\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\git\ОРИС\Week7\HttpServer\HttpServer\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\git\ОРИС\Week7\HttpServer\HttpServer\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\git\ОРИС\Week7\HttpServer\HttpServer\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\git\ОРИС\Week7\HttpServer\HttpServer\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\git\ОРИС\Week7\HttpServer\HttpServer\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\git\ОРИС\Week7\HttpServer\HttpServer\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\git\ОРИС\Week7\HttpServer\HttpServer\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\git\ОРИС\Week7\HttpServer\HttpServer\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\git\ОРИС\Week7\HttpServer\HttpServer\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
